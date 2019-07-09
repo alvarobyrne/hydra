@@ -27,6 +27,7 @@
 ## Extending Hydra
 - [Hydra streaming to Cinder](https://sophiadigitalart.com/hydra-streaming-to-cinder/)
 - [Orca-hydra](https://gist.github.com/echophon/1c7325f907b0e4eb1850e956c25dafd4)
+- [Adding custom shaders to hydra synth](https://sophiadigitalart.com/adding-custom-shaders-to-hydra-synth/)
 
 ## Live Performances
 - 2019.02.2019 [Bruce Lane @ Toplap 15th Birthday Livestream](https://www.youtube.com/watch?v=-t8LgMQoEvQ)
